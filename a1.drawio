@@ -13,10 +13,10 @@
         <mxCell id="SloGrZR9xYbFawVP5SOM-3" value="Determine the Organization" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="272.5" y="175" width="231" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="SloGrZR9xYbFawVP5SOM-4" value="Do Research on the Data element and Gather Information about it." style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="SloGrZR9xYbFawVP5SOM-4" value="Collect comprehensive data and insights regarding the element" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="289" y="244" width="198" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="SloGrZR9xYbFawVP5SOM-5" value="We need to Identify the Data Owner" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="SloGrZR9xYbFawVP5SOM-5" value="Determine who is responsible for the data element" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="285.5" y="313" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vHOP9nPJ3jyY0h2WvVoi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SloGrZR9xYbFawVP5SOM-5" target="SloGrZR9xYbFawVP5SOM-6">
@@ -32,13 +32,13 @@
         <mxCell id="SloGrZR9xYbFawVP5SOM-6" value="Does Data Owner Know About the Element?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="253" y="390" width="270" height="186" as="geometry" />
         </mxCell>
-        <mxCell id="SloGrZR9xYbFawVP5SOM-7" value="Consult the Data Owner and try to&#xa;Figure out the Current Process" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="SloGrZR9xYbFawVP5SOM-7" value="Engage with the data owner to understand the existing process." style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="285.5" y="610" width="203" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SloGrZR9xYbFawVP5SOM-8" value="We Determine The  Data Type" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="283" y="677" width="210" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="SloGrZR9xYbFawVP5SOM-9" value="Type of Data" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="SloGrZR9xYbFawVP5SOM-9" value="Classify the data based on its structure." style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="318.5" y="750" width="139" height="139" as="geometry" />
         </mxCell>
         <mxCell id="SloGrZR9xYbFawVP5SOM-10" value=" For structured data, review the existing process and continue using it if it meets the requirements." style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
