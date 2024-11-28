@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.2" pages="2">
   <diagram name="Page-1" id="u5HNuBVhndBwtkaAh5eQ">
-    <mxGraphModel dx="786" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,10 +20,7 @@
           <mxGeometry x="174" y="560" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="dc7DOvgoO3kcszVrloIV-35" value="Determine the Organization&#xa;&#xa;Identify the organization or team responsible for the data element." style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="194" y="970" width="248" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="dc7DOvgoO3kcszVrloIV-36" value="Inform Data Owner&#xa;&#xa;Engage with the data owner to inform them and gather necessary details." style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="349.5" y="810" width="255" height="119" as="geometry" />
+          <mxGeometry x="194" y="910" width="248" height="119" as="geometry" />
         </mxCell>
         <mxCell id="dc7DOvgoO3kcszVrloIV-38" value="Is the data structured or dark?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="1160" width="242" height="242" as="geometry" />
@@ -61,29 +58,6 @@
         <mxCell id="dc7DOvgoO3kcszVrloIV-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dc7DOvgoO3kcszVrloIV-33" target="dc7DOvgoO3kcszVrloIV-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dc7DOvgoO3kcszVrloIV-48" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="1" source="dc7DOvgoO3kcszVrloIV-34" target="dc7DOvgoO3kcszVrloIV-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="210" y="820" />
-              <mxPoint x="214" y="934" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dc7DOvgoO3kcszVrloIV-49" value="No" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dc7DOvgoO3kcszVrloIV-34" target="dc7DOvgoO3kcszVrloIV-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="450" y="740" />
-              <mxPoint x="480" y="790" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dc7DOvgoO3kcszVrloIV-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="dc7DOvgoO3kcszVrloIV-36" target="dc7DOvgoO3kcszVrloIV-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="960" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dc7DOvgoO3kcszVrloIV-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;" edge="1" parent="1" source="dc7DOvgoO3kcszVrloIV-35">
@@ -132,6 +106,32 @@
         <mxCell id="dc7DOvgoO3kcszVrloIV-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dc7DOvgoO3kcszVrloIV-42" target="dc7DOvgoO3kcszVrloIV-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28No-BFLwqwlpfc9Jj6o-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.449;entryY=-0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dc7DOvgoO3kcszVrloIV-34" target="dc7DOvgoO3kcszVrloIV-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="770" as="sourcePoint" />
+            <mxPoint x="430" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28No-BFLwqwlpfc9Jj6o-2" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="28No-BFLwqwlpfc9Jj6o-1">
+          <mxGeometry x="0.0369" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28No-BFLwqwlpfc9Jj6o-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dc7DOvgoO3kcszVrloIV-34" target="dc7DOvgoO3kcszVrloIV-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="650" as="sourcePoint" />
+            <mxPoint x="540" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="690" />
+              <mxPoint x="550" y="451" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28No-BFLwqwlpfc9Jj6o-4" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="28No-BFLwqwlpfc9Jj6o-3">
+          <mxGeometry x="-0.032" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
